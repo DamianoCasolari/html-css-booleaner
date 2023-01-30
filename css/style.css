@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#app-header {
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+    background-position: center top;
+}
+
+#app-header>div>img {
+    width: 200px;
+    margin: 10px 0;
+}
